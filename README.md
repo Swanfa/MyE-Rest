@@ -2,7 +2,7 @@
 
 Este proyecto permite realizar pedidos desde una interfaz web, conectada a un servidor Node.js con base de datos SQLite. Los pedidos se guardan y luego se exportan automáticamente a un fichero `.json` sincronizado con OneDrive, para ser utilizados por la cocina.
 
-
+### Presentación
 <img width="250" height="273" alt="qr_presentacion" src="https://github.com/user-attachments/assets/3f0c3395-fd87-4e87-a642-d01f31c36388" />
 
 ## ⚙️ Requisitos previos
